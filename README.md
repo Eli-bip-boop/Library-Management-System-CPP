@@ -24,9 +24,9 @@ A robust, object-oriented command-line application built in C++ designed to mana
 2. Open your terminal or command prompt in the project directory.
 3. Compile the code using a C++ compiler (such as `g++`):
    ```bash
-   g++ main.cpp -o library_system
+   g++ library.cpp 
 
 Run the executable:
 
-   Windows: library_system.exe
-   Linux / macOS:: ./library_system
+   Windows: library.exe <br>
+   Linux / macOS:: ./library
